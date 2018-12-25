@@ -1,2 +1,2 @@
-# Tangram-Browser
+# Tangram
 Chromium-based hybrid application browser.
