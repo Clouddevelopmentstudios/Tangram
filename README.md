@@ -1,5 +1,6 @@
 # Tangram
-Chromium-based hybrid application browser.
+
+Tangram is a Chromium-based **Hybrid Application Browser**. We have retained the full functionality of Chromium. Support for the development of **Hybrid Cloud Applications** using both Web and Desktop technologies.
 
 ![Capture](Capture.png)
 
