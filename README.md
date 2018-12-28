@@ -4,7 +4,7 @@ If you can build a desktop app, you can also build a browser app. Tangram is a b
 
 Tangram is based on Chromium. We have retained the full functionality of Chromium.
 
-Tangram can bring you a hybrid interface similar to the one below.
+Tangram can bring you a hybrid interface similar to the screenshot below.
 
 ![Capture](Capture.png)
 
