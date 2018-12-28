@@ -1,6 +1,10 @@
 # Tangram
 
-Tangram is a Chromium-based **Cloud Application Browser**. We have retained the full functionality of Chromium. Support for the development of browser applications using both Web and Desktop technologies.
+If you can build a desktop app, you can also build a browser app. Tangram is a browser that supports desktop technologies like C++/COM, .NET Winform, and Java SWT. You can use both web and desktop technologies to develop brwoser applications. Tangram makes your desktop app as easy to install as a website and enjoys the dynamic update feature.
+
+Tangram is based on Chromium. We have retained the full functionality of Chromium.
+
+Tangram can bring you a hybrid interface similar to the one below.
 
 ![Capture](Capture.png)
 
