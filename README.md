@@ -6,6 +6,18 @@ Tangram is a Chromium-based **Cloud Application Browser**. We have retained the 
 
 ![Capture](Capture.png)
 
+## Supported component types
+
+| Component Types | Status |
+|-----------------|--------|
+| .NET Winform Control | Full support |
+| HTML Page | Support based on the Tangram browser |
+| .NET WPF | Untested |
+| Windows UWP | Untested |
+| Win32 | Untested |
+| MFC CWnd | Untested |
+| Java SWT | Untested |
+
 ## Documentation
 
 - [Learn about the extension panel on the left.](https://github.com/TangramDev/LaunchPad)
