@@ -1,31 +1,65 @@
-# Checking out and Building Chromium for Windows
+# Checking out and Building Tangram for Windows
 ## System requirements
 - A 64-bit Intel machine with at least 8GB of RAM. More than 16GB is highly recommended.
 - At least 100GB of free disk space on an NTFS-formatted hard drive. FAT32 will not work, as some of the Git packfiles are larger than 4GB.
 - An appropriate version of Visual Studio, as described below.
-- Windows 7 or newer.
+- Windows 10 or newer.
 ## Setting up Windows
 ### Visual Studio
-Chromium requires Visual Studio 2017 (>=15.7.2)  to build. The clang-cl compiler is used but Visual Studio's header files, libraries, and some tools are required. Visual Studio Community Edition should work if its license is appropriate for you. You must install the “Desktop development with C++” component and the “MFC/ATL support” sub-components. This can be done from the command line by passing these arguments to the Visual Studio installer (see below for ARM64 instructions):
+Install Visual Studio Community 2017 from https://www.visualstudio.com/downloads/.   
+Necessary installation options
 ```
-$ PATH_TO_INSTALLER.EXE ^
---add Microsoft.VisualStudio.Workload.NativeDesktop ^
---add Microsoft.VisualStudio.Component.VC.ATLMFC ^
---includeRecommended
+--.NET desktop development
+--Desktop development with C++
+  --Visual C++ MFC for x86 and x64
+  --C++/CLI support
+--Office/SharePoint development
+--Microsoft Visual Studio 2017 Installer Projects
 ```
-If you want to build for ARM64 Win32 then some extra arguments are needed. The full set for that case is:
+### Git
+Install Git from https://git-scm.com/downloads.  
+Configure Git:
 ```
-$ PATH_TO_INSTALLER.EXE ^
---add Microsoft.VisualStudio.Workload.NativeDesktop ^
---add Microsoft.VisualStudio.Component.VC.ATLMFC ^
---add Microsoft.VisualStudio.Component.VC.Tools.ARM64 ^
---add Microsoft.VisualStudio.Component.VC.MFC.ARM64 ^
---includeRecommended
+$ git config --global user.name "My Name"
+$ git config --global user.email "my-name@chromium.org"
+$ git config --global core.autocrlf false
+$ git config --global core.filemode false
+$ git config --global branch.autosetuprebase always
+```
+## Get the code
+### Chromium
+Tangram is based on Chromium, so need to get the chromium code according to https://chromium.googlesource.com/chromium/src/+/master/docs/windows_build_instructions.md#get-the-code
+
+### Chromium patches
+1. Get the tangram code
+```
+git clone https://github.com/TangramDev/Tangram.git
+```
+2. Copy `chromium_patches/71.0.3578.80` into **{{Chromium Root Directory}}\src\**
+
+### TangramCore
+Core is the core component of the Tangram system. It provides basic interface rendering, event forwarding, message pipeline, process management and language runtime support.
+```
+git clone https://github.com/TangramDev/Core.git
 ```
 
-You must have the version 10.0.17134 or higher Windows 10 SDK installed. This can be installed separately or by checking the appropriate box in the Visual Studio Installer.
+### LaunchPad
+An extension panel located on the left side of the Tangram browser.
+```
+git clone https://github.com/TangramDev/LaunchPad.git
+```
 
-The SDK Debugging Tools must also be installed. If the Windows 10 SDK was installed via the Visual Studio installer, then they can be installed by going to: 
-> Control Panel → Programs → Programs and Features → Select the “Windows Software Development Kit” → Change → Change → Check “Debugging Tools For Windows” → Change. 
+## Build Tangram
+### Build TangramCore
+> Please run Visual Studio as an administrator.  
 
-Or, you can download the standalone SDK installer and use it to install the Debugging Tools.
+Open **{{Tangram Root Directory}}\Build\TangramCore.sln**, build **TangramCore** and **TangramCLR**.
+
+### Build LaunchPad
+Open **{{LaunchPad Root Directory}}\LaunchPad.csproj**, build .
+
+
+
+
+
+
