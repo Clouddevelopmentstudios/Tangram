@@ -1,0 +1,16 @@
+import("//build/toolchain/win/midl.gni")
+
+midl("com_server") {
+  sources = [
+    "ChromeAppServer.idl",
+  ]
+}
+
+copy("com_server_gen_tlb") {
+  sources = [ "//third_party/win_build_output/midl/chrome_proxy/com_server/$target_cpu/ChromeAppServer.tlb" ]
+  outputs = [ "$root_out_dir/chrome.tlb" ]
+  
+  deps = [
+    ":com_server",
+  ]
+}

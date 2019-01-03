@@ -1,0 +1,13 @@
+// begin ChromeProxy
+[
+	Constructor(DOMString event_type,
+				DOMString channel,
+				DOMString arg1,
+				DOMString arg2),
+	Exposed=Window
+] interface TangramEvent : Event {
+	attribute DOMString channel;
+	attribute DOMString arg1;
+	attribute DOMString arg2;
+};
+// end ChromeProxy

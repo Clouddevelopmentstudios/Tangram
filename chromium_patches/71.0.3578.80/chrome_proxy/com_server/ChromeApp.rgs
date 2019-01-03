@@ -1,0 +1,27 @@
+HKCR
+{
+	ChromePlus.Tangram.1 = s 'ChromePlus Class'
+	{
+		CLSID = s '{19631222-1992-0612-1965-060120180801}'
+	}
+	ChromePlus.Tangram = s 'ChromePlus Class'
+	{
+		CLSID = s '{19631222-1992-0612-1965-060120180801}'
+		CurVer = s 'ChromePlus.Tangram.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {19631222-1992-0612-1965-060120180801} = s 'ChromePlus class'
+		{
+			ProgID = s 'ChromePlus.Tangram.1'
+			VersionIndependentProgID = s 'ChromePlus.Tangram'
+			ForceRemove Programmable
+			LocalServer32 = s '%MODULE%'
+			{
+				val ServerExecutable = s '%MODULE_RAW%'
+			}
+			TypeLib = s '{19631222-1992-0612-1965-060120180823}'
+			Version = s '1.0'
+		}
+	}
+}

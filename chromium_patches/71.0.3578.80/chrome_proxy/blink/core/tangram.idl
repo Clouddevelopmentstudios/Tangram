@@ -1,0 +1,23 @@
+// begin ChromeProxy
+typedef sequence<any> ObjectArray;
+[
+	Exposed = Window, 
+	NoInterfaceObject 
+] interface Tangram : EventTarget {
+
+	// Message API
+	void sendTo(DOMString channel, DOMString arg1, DOMString arg2);
+    void sendToAll(DOMString arg1, DOMString arg2);
+	void sendToNode(DOMString nodeName, DOMString arg1, DOMString arg2);
+    void sendToNode(long rowNum, long colNum, DOMString arg1, DOMString arg2);
+
+	[RaisesException, CallWith=ScriptState] void sendMessage(DOMString strContent, any... arguments);
+
+	// Extend API
+	void extend(DOMString layerName, DOMString layerXML, DOMString features);
+    void extend(DOMString nodeName, DOMString layerName, DOMString layerXML, DOMString features);
+
+	// Event handler attributes
+    attribute EventHandler onMessageReceived;
+};
+// end ChromeProxy

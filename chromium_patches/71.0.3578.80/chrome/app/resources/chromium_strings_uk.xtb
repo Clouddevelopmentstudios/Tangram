@@ -1,0 +1,281 @@
+<?xml version="1.0" ?>
+<!DOCTYPE translationbundle>
+<translationbundle lang="uk">
+<translation id="1065672644894730302">Не вдається розпізнати налаштування. Деякі функції можуть бути не доступні, а зміни в налаштуваннях не зберігатимуться.</translation>
+<translation id="1104942323762546749">Tangram хоче експортувати ваші паролі. Щоб дозволити, введіть свій пароль Windows.</translation>
+<translation id="1115445892567829615">Tangram не вдалося синхронізувати ваші дані. Оновіть свою парольну фразу для синхронізації.</translation>
+<translation id="113122355610423240">Tangram – ваш веб-переглядач за умовчанням</translation>
+<translation id="1170115874949214249">Установіть Tangram на телефоні. Ми надішлемо SMS на номер телефону для відновлення облікового запису.</translation>
+<translation id="1174473354587728743">Користуєтеся комп’ютером спільно з іншими? Тепер ви можете налаштувати Tangram на свій смак.</translation>
+<translation id="1185134272377778587">Про Tangram</translation>
+<translation id="1209657686917656928">{0,plural, =0{Tangram перезапуститься зараз}=1{Tangram перезапуститься через 1 секунду}one{Tangram перезапуститься через # секунду}few{Tangram перезапуститься через # секунди}many{Tangram перезапуститься через # секунд}other{Tangram перезапуститься через # секунди}}</translation>
+<translation id="1267419686153937460">{0,plural, =1{Перезапустіть Tangram упродовж дня}one{Перезапустіть Tangram упродовж # дня}few{Перезапустіть Tangram упродовж # днів}many{Перезапустіть Tangram упродовж # днів}other{Перезапустіть Tangram упродовж # дня}}</translation>
+<translation id="1298199220304005244">Отримати довідку щодо користування ОС Tangram</translation>
+<translation id="1396446129537741364">Tangram намагається показати паролі.</translation>
+<translation id="1414495520565016063">Ви ввійшли в Tangram.</translation>
+<translation id="1502360822835740515">Як зробити Tangram веб-переглядачем за умовчанням</translation>
+<translation id="151962892725702025">ОС Tangram не вдалося синхронізувати ваші дані, оскільки синхронізація для вашого домену недоступна.</translation>
+<translation id="1585657529869845941">Натисніть кнопку <ph name="BEGIN_BOLD" />Усе одно змінити<ph name="END_BOLD" />, якщо вона з’явиться</translation>
+<translation id="1662639173275167396">ОС Tangram, як і <ph name="BEGIN_LINK_LINUX_OSS" />бета-версія Linux<ph name="END_LINK_LINUX_OSS" />, працюють завдяки додатковому <ph name="BEGIN_LINK_CROS_OSS" />програмному забезпеченню з відкритим кодом<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="1668054258064581266">Якщо видалити обліковий запис із Tangram, можливо, потрібно оновити відкриті вкладки, щоб зміни почали діяти.</translation>
+<translation id="1688750314291223739">Налаштуйте синхронізацію, щоб зберегти свої персоналізовані функції веб-переглядача в Інтернеті й мати до них доступ із Tangram на будь-якому комп’ютері.</translation>
+<translation id="1708666629004767631">Доступна нова, надійніша версія Tangram.</translation>
+<translation id="1766096484055239003">Адміністратор вимагає перезапустити Tangram, щоб застосувати оновлення</translation>
+<translation id="1774152462503052664">Дозволити Tangram працювати у фоновому режимі</translation>
+<translation id="1779356040007214683">Щоб зробити Tangram безпечнішим, ми вимкнути деякі розширення, джерелом яких не є <ph name="IDS_EXTENSION_WEB_STORE_TITLE" />, і які, можливо, було додано без вашого відома.</translation>
+<translation id="1808667845054772817">Перевстановити Tangram</translation>
+<translation id="1869480248812203386">Ви можете допомогти зробити Tangram безпечнішим і простішим у користуванні, автоматично повідомляючи Google деталі щодо можливого порушення безпеки.</translation>
+<translation id="1881322772814446296">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Tangram. Ваші дані Tangram, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME" />. Ці дані можна видалити на інформаційній панелі Облікових записів Google, але ви не зможете пов’язати їх з іншим обліковим записом. Проте ви можете створити новий профіль, щоб зберігати наявні дані Tangram окремо. <ph name="LEARN_MORE" /></translation>
+<translation id="1895626441344023878">{0,plural, =0{Доступне оновлення Tangram}=1{Доступне оновлення Tangram}one{Оновлення Tangram доступне вже # день}few{Оновлення Tangram доступне вже # дні}many{Оновлення Tangram доступне вже # днів}other{Оновлення Tangram доступне вже # дня}}</translation>
+<translation id="1911763535808217981">Якщо вимкнути цей параметр, ви зможете входити на сайти Google, як-от Gmail, без входу в Tangram</translation>
+<translation id="1929939181775079593">Tangram не відповідає. Перезапустити зараз?</translation>
+<translation id="1966382378801805537">Tangram не може визначити чи встановити веб-переглядач за умовчанням</translation>
+<translation id="2008474315282236005">1 елемент буде видалено з цього пристрою. Щоб відновити дані пізніше, увійдіть в обліковий запис Tangram як <ph name="USER_EMAIL" />.</translation>
+<translation id="2117378023188580026">Адміністратор просить перезапустити Tangram, щоб застосувати це оновлення</translation>
+<translation id="2119636228670142020">Про &amp;ОС Tangram</translation>
+<translation id="2241627712206172106">Якщо вашим комп’ютером користуєтесь не лише ви, а й ваші друзі чи сім’я, вони можуть налаштувати Tangram на свій смак.</translation>
+<translation id="2265088490657775772">завантажити Tangram на iPhone</translation>
+<translation id="2347108572062610441">Це розширення змінило сторінку, яка відкривається під час запуску Tangram.</translation>
+<translation id="2396765026452590966">Розширення "<ph name="EXTENSION_NAME" />" змінило сторінку, яка відкривається під час запуску Tangram.</translation>
+<translation id="2483889755041906834">У Tangram</translation>
+<translation id="2485422356828889247">Видалити</translation>
+<translation id="2527042973354814951">Перезавантажте Tangram, щоб увімкнути плагін "<ph name="PLUGIN_NAME" />"</translation>
+<translation id="2535480412977113886">ОС Tangram не вдалося синхронізувати ваші дані, оскільки дані для входу в обліковий запис застаріли.</translation>
+<translation id="2560420686485554789">Tangram потрібен доступ до пам’яті, щоб завантажувати файли</translation>
+<translation id="2572494885440352020">Помічник Tangram</translation>
+<translation id="2587578672395088481">Щоб застосувати це оновлення, потрібно перезапустити ОС Tangram.</translation>
+<translation id="2647554856022461007">Tangram може покращувати веб-перегляд за допомогою веб-служб. Ви можете вимкнути ці служби. <ph name="BEGIN_LINK" />Докладніше<ph name="END_LINK" /></translation>
+<translation id="2648074677641340862">Під час встановлення сталася помилка операційної системи. Завантажте Tangram ще раз.</translation>
+<translation id="2711502716910134313">Вкладка Tangram</translation>
+<translation id="2718390899429598676">Задля підвищення безпеки Tangram шифруватиме ваші дані.</translation>
+<translation id="2770231113462710648">Змінити веб-переглядач за умовчанням на:</translation>
+<translation id="2799223571221894425">Перезапустити</translation>
+<translation id="2847479871509788944">Видалити з Tangram…</translation>
+<translation id="2886012850691518054">Додатково: допоможіть покращити Tangram,  автоматично надсилаючи статистику використання та звіти про аварійне завершення роботи в Google.</translation>
+<translation id="2898082584336937987">Установіть Tangram на телефоні. Ми надішлемо SMS на ваш телефон: <ph name="PHONE_NUMBER" /></translation>
+<translation id="2910007522516064972">Про &amp;Tangram</translation>
+<translation id="2977470724722393594">У вас остання версія Tangram</translation>
+<translation id="3032787606318309379">Додавання в Tangram...</translation>
+<translation id="3046695367536568084">Щоб користуватися додатками, потрібно ввійти в Tangram. Це дозволяє веб-переглядачу Tangram синхронізувати ваші додатки, закладки, історію, паролі й інші налаштування на різних пристроях.</translation>
+<translation id="3052899382720782935">{0,plural, =1{Tangram перезапуститься через 1 хвилину}one{Tangram перезапуститься через # хвилину}few{Tangram перезапуститься через # хвилини}many{Tangram перезапуститься через # хвилин}other{Tangram перезапуститься через # хвилини}}</translation>
+<translation id="3068515742935458733">Допоможіть покращити Tangram, надсилаючи звіти про аварійне завершення роботи та <ph name="UMA_LINK" /> в Google</translation>
+<translation id="3103660991484857065">Програмі встановлення не вдалося видобути архів. Завантажте Tangram ще раз.</translation>
+<translation id="3130323860337406239">Tangram використовує ваш мікрофон.</translation>
+<translation id="3155163173539279776">Перезапустити Tangram</translation>
+<translation id="3179665906251668410">Відкрити посилання в аноні&amp;мному вікні Tangram</translation>
+<translation id="3190315855212034486">Помилка. Tangram аварійно завершив роботу. Перезапустити зараз?</translation>
+<translation id="3229526316128325841">Tangram хоче експортувати ваші паролі.</translation>
+<translation id="3256316712990552818">Скопійовано в Tangram</translation>
+<translation id="3258596308407688501">Tangram не може читати та писати дані у свій каталог даних:
+
+<ph name="USER_DATA_DIRECTORY" /></translation>
+<translation id="328888136576916638">Ключі API Google відсутні. Деякі функції Tangram буде вимкнено.</translation>
+<translation id="3296368748942286671">Продовжувати роботу фонових програм, коли Tangram закрито</translation>
+<translation id="331951419404882060">ОС Tangram не вдалося синхронізувати ваші дані через помилку входу.</translation>
+<translation id="3474745554856756813">З цього пристрою буде видалено стільки елементів: <ph name="ITEMS_COUNT" />. Щоб відновити дані пізніше, увійдіть в обліковий запис Tangram як <ph name="USER_EMAIL" />.</translation>
+<translation id="3479552764303398839">Не зараз</translation>
+<translation id="3509308970982693815">Закрийте всі вікна Tangram і повторіть спробу.</translation>
+<translation id="352783484088404971">Видалити з Tangram…</translation>
+<translation id="3582788516608077514">Оновлення Tangram...</translation>
+<translation id="358997566136285270">Логотип Tangram</translation>
+<translation id="3713809861844741608">Відкрити посилання в новій &amp;вкладці Tangram</translation>
+<translation id="3728336900324680424">Tangram матиме доступ до Диска, щоб робити пропозиції в адресному рядку</translation>
+<translation id="3762167353400286894">Для ОС Tangram вибрано цю мову</translation>
+<translation id="378917192836375108">Tangram дозволяє натиснути номер телефону в Інтернеті та зателефонувати за ним через Skype.</translation>
+<translation id="3848258323044014972"><ph name="PAGE_TITLE" /> – Tangram</translation>
+<translation id="3852700440713538496">Як закріпити значок Tangram на панелі завдань</translation>
+<translation id="3889543394854987837">Натисніть своє ім’я, щоб відкрити Tangram і розпочати перегляд сайтів.</translation>
+<translation id="3898493977366060150">Перегляд веб-сторінок із розумними функціями Google</translation>
+<translation id="3965668104013180445">{0,plural, =1{ОС Tangram перезапуститься через годину}one{ОС Tangram перезапуститься через # годину}few{ОС Tangram перезапуститься через # години}many{ОС Tangram перезапуститься через # годин}other{ОС Tangram перезапуститься через # години}}</translation>
+<translation id="4036079820698952681">Допоможіть покращити Tangram, надсилаючи звіти про <ph name="BEGIN_LINK" />поточні налаштування<ph name="END_LINK" /></translation>
+<translation id="4050175100176540509">В останній версії покращено безпеку та додано нові функції.</translation>
+<translation id="407254336480250557">Виберіть <ph name="SMALL_PRODUCT_LOGO" /> <ph name="BEGIN_BOLD" />Tangram<ph name="END_BOLD" /></translation>
+<translation id="421369550622382712">Знаходьте чудові додатки, ігри, розширення й теми для Tangram.</translation>
+<translation id="4222580632002216401">Ви ввійшли в Tangram. Проте ваш адміністратор вимкнув синхронізацію.</translation>
+<translation id="4224199872375172890">У вас остання версія Tangram.</translation>
+<translation id="4230135487732243613">Пов’язати ваші дані Tangram із цим обліковим записом?</translation>
+<translation id="4260985389288095068">На вашому комп’ютері виявлено зловмисне програмне забезпечення. Tangram може видалити його та відновити налаштування для роботи веб-переглядача у звичайному режимі.</translation>
+<translation id="4271805377592243930">Отримати довідку щодо Tangram</translation>
+<translation id="4285930937574705105">Не вдалося встановити через невизначену помилку. Якщо Tangram зараз запущено, закрийте його та повторіть спробу.</translation>
+<translation id="4407044323746248786">Усе одно вийти з Tangram?</translation>
+<translation id="4415566066719264597">Дозволити Tangram працювати у фоновому режимі</translation>
+<translation id="4421155425831608516">Адміністратор цього пристрою вимкнув вхід у Tangram.</translation>
+<translation id="4423735387467980091">Налаштування та керування Tangram</translation>
+<translation id="4567424176335768812">Ви ввійшли як <ph name="USER_EMAIL_ADDRESS" />. Ваші закладки, історія й інші налаштування будуть доступні на всіх пристроях, на яких ви ввійдете в цей обліковий запис.</translation>
+<translation id="459535195905078186">Програми Tangram</translation>
+<translation id="4621240073146040695">Майже оновлено. Перезапустіть Tangram, щоб завершити оновлення.</translation>
+<translation id="4677944499843243528">Схоже, профіль використовується іншим процесом Tangram (<ph name="PROCESS_ID" />) на іншому комп’ютері (<ph name="HOST_NAME" />). Tangram заблокував профіль, щоб запобігти його спотворенню. Якщо ви впевнені, що жоден інший процес не використовує цей профіль, розблокуйте профіль і перезапустіть Tangram.</translation>
+<translation id="469338717132742108">Отримати довідку щодо ОС Tangram</translation>
+<translation id="4708774505295300557">Хтось раніше входив у Tangram на цьому комп’ютері як <ph name="ACCOUNT_EMAIL_LAST" />. Створіть нового користувача Tangram, щоб зберігати свою інформацію окремо.</translation>
+<translation id="4714956846925717402">Відкривайте Tangram швидше</translation>
+<translation id="4746050847053251315">Усе одно вийти з Tangram?</translation>
+<translation id="4888717733111232871">Вхідне правило для Tangram дозволяє трафік mDNS.</translation>
+<translation id="4943838377383847465">Tangram у фоновому режимі.</translation>
+<translation id="4987820182225656817">Гості можуть анонімно користуватися Tangram.</translation>
+<translation id="4994636714258228724">Додати себе в Tangram</translation>
+<translation id="5021854341188256296">{0,plural, =0{Доступне оновлення ОС Tangram}=1{Доступне оновлення ОС Tangram}one{Оновлення ОС Tangram доступне вже # день}few{Оновлення ОС Tangram доступне вже # дні}many{Оновлення ОС Tangram доступне вже # днів}other{Оновлення ОС Tangram доступне вже # дня}}</translation>
+<translation id="5032989939245619637">Зберігати дані в Tangram</translation>
+<translation id="5045248521775609809">Використовуйте Tangram на всіх пристроях</translation>
+<translation id="5116586539350239523">Tangram надійно зберігатиме ваші особисті дані, тож вам не потрібно буде вводити їх знову.</translation>
+<translation id="5277894862589591112">Щоб застосувати зміни, перезапустіть Tangram</translation>
+<translation id="5358375970380395591">Ви входите, використовуючи дані облікового запису, яким керує адміністратор. Адміністратор може контролювати ваш профіль Tangram. Ваші дані Tangram, як-от програми, закладки, історія, паролі й інші налаштування, буде назавжди пов’язано з обліковим записом <ph name="USER_NAME" />. Ці дані можна видалити на інформаційній панелі Облікових записів Google, але ви не зможете пов’язати їх з іншим обліковим записом. <ph name="LEARN_MORE" /></translation>
+<translation id="5386450000063123300">Tangram оновлюється (<ph name="PROGRESS_PERCENT" />)</translation>
+<translation id="538767207339317086">Дозволити вхід у Tangram</translation>
+<translation id="5398878173008909840">Доступна нова версія Tangram.</translation>
+<translation id="5416696090975899932">Tangram не може відобразити попередній перегляд версії для друку, якщо немає вбудованого засобу для перегляду файлів PDF.</translation>
+<translation id="5427571867875391349">Зробити Tangram веб-переглядачем за умовчанням</translation>
+<translation id="5438241569118040789"><ph name="PAGE_TITLE" /> – Бета-версія Tangram</translation>
+<translation id="5466153949126434691">Tangram оновлюється автоматично, щоб у вас завжди була найновіша версія. Щойно це завантаження завершиться, Tangram перезапуститься й ви зможете продовжувати роботу.</translation>
+<translation id="5479196819031988440">Неможливо відкрити цю сторінку в ОС Tangram.</translation>
+<translation id="5480860683791598150">Tangram потрібен доступ до геоданих, щоб повідомляти ваше місцезнаходження цьому сайту</translation>
+<translation id="549669000822060376">Зачекайте, доки Tangram установить найновіші оновлення системи.</translation>
+<translation id="5529843986978123325">{0,plural, =1{ОС Tangram перезапуститься через 1 хвилину}one{ОС Tangram перезапуститься через # хвилину}few{ОС Tangram перезапуститься через # хвилини}many{ОС Tangram перезапуститься через # хвилин}other{ОС Tangram перезапуститься через # хвилини}}</translation>
+<translation id="5631814766731275228">Ім’я та зображення профілю Tangram</translation>
+<translation id="5634636535844844681">Для роботи Tangram потрібно мати ОС Windows 7 або новішої версії.</translation>
+<translation id="5680901439334282664">увійдіть в обліковий запис Tangram</translation>
+<translation id="5698481217667032250">Вибрати цю мову для Tangram</translation>
+<translation id="5712253116097046984">Адміністратор просить перезапустити ОС Tangram, щоб застосувати це оновлення</translation>
+<translation id="5726838626470692954">Вашому адміністратору потрібно вилучити й знову додати вас у Tangram.</translation>
+<translation id="5768914737813585044">Вибрати цю мову для ОС Tangram</translation>
+<translation id="5796460469508169315">Tangram майже готовий.</translation>
+<translation id="5820394555380036790">ОС Tangram</translation>
+<translation id="5862307444128926510">Вітаємо в Tangram</translation>
+<translation id="5877064549588274448">Канал змінено. Перезапустіть пристрій, щоб застосувати зміни.</translation>
+<translation id="5895138241574237353">Перезапустити</translation>
+<translation id="5902536751647951209">Не вдалось отримати сертифікат автентифікації. Щоб дізнатися більше, знову ввійдіть в обліковий запис Tangram або зв’яжіться з адміністратором. <ph name="ADDITIONAL_EXPLANATION" /></translation>
+<translation id="5906655207909574370">Майже оновлено. Перезапустіть пристрій, щоб завершити оновлення.</translation>
+<translation id="5987687638152509985">Щоб почати синхронізацію, оновіть Tangram</translation>
+<translation id="6040143037577758943">Закрити</translation>
+<translation id="6055895534982063517">Доступна нова версія Tangram – швидша, ніж будь-коли.</translation>
+<translation id="6063093106622310249">&amp;Відкрити в Tangram</translation>
+<translation id="6072279588547424923">Розширення <ph name="EXTENSION_NAME" /> додано в Tangram</translation>
+<translation id="608189560609172163">Tangram не вдалося синхронізувати ваші дані через помилку входу.</translation>
+<translation id="6096348254544841612">Налаштуйте й контролюйте Tangram. Доступне оновлення.</translation>
+<translation id="6120345080069858279">Tangram збереже цей пароль в обліковому записі Google. Не потрібно його запам’ятовувати.</translation>
+<translation id="6129621093834146363">Файл <ph name="FILE_NAME" /> небезпечний, тому Tangram заблокував його.</translation>
+<translation id="620022061217911843">Адміністратор вимагає перезапустити ОС Tangram, щоб застосувати оновлення</translation>
+<translation id="6212496753309875659">На цьому комп’ютері вже встановлено новішу версію Tangram. Якщо програмне забезпечення не працює, видаліть Tangram і повторіть спробу.</translation>
+<translation id="6248213926982192922">Зробити Tangram переглядачем за умовчанням</translation>
+<translation id="6268381023930128611">Вийти з Tangram?</translation>
+<translation id="6295779123002464101">Файл <ph name="FILE_NAME" /> може бути небезпечним, тому Tangram заблокував його.</translation>
+<translation id="6309712487085796862">Tangram використовує вашу камеру.</translation>
+<translation id="6333502561965082103">У Tangram виконується інша операція. Спробуйте пізніше.</translation>
+<translation id="6334986366598267305">Користуватися Tangram у своєму обліковому записі Google на спільних комп’ютерах стало легше.</translation>
+<translation id="6373523479360886564">Дійсно видалити Tangram?</translation>
+<translation id="6394232988457703198">Перезапустіть Tangram.</translation>
+<translation id="6400072781405947421">Tangram може працювати неналежним чином, оскільки вже не підтримується в ОС Mac X 10.9.</translation>
+<translation id="6403826409255603130">Tangram – це веб-переглядач, який запускає веб-сторінки та програми з блискавичною швидкістю. Він швидкий, надійний і зручний у користуванні. Вбудований у Tangram захист від шкідливих програм і фішингу гарантує ще більшу безпеку під час перегляду веб-сторінок.</translation>
+<translation id="641451971369018375">Обмінюється даними з Google, щоб покращувати веб-перегляд і Tangram</translation>
+<translation id="6457450909262716557">{SECONDS,plural, =1{Tangram перезапуститься через 1 секунду}one{Tangram перезапуститься через # секунду}few{Tangram перезапуститься через # секунди}many{Tangram перезапуститься через # секунд}other{Tangram перезапуститься через # секунди}}</translation>
+<translation id="6475912303565314141">Також указує сторінку, яка відкривається під час запуску Tangram.</translation>
+<translation id="6485906693002546646">Ви синхронізуєте дані Tangram через обліковий запис <ph name="PROFILE_EMAIL" />. Щоб оновити параметри синхронізації або використовувати Tangram без облікового запису Google, перейдіть на сторінку <ph name="SETTINGS_LINK" />.</translation>
+<translation id="6510925080656968729">Видалити Tangram</translation>
+<translation id="6570579332384693436">Щоб виправляти орфографічні помилки, Tangram надсилає введений текст у Google</translation>
+<translation id="6598877126913850652">Перейти до налаштувань сповіщень Tangram</translation>
+<translation id="6676384891291319759">Доступ до Інтернету</translation>
+<translation id="6717134281241384636">Ваш профіль не можна використовувати, оскільки він створений у новішій версії Tangram.
+
+Деякі функції можуть бути недоступними. Укажіть інший каталог профілю або скористайтеся новішою версією Tangram.</translation>
+<translation id="6734080038664603509">Оновити &amp;Tangram</translation>
+<translation id="6734291798041940871">Tangram уже встановлено для всіх користувачів на вашому комп’ютері.</translation>
+<translation id="6810143991807788455">Допоможіть покращити Tangram, надсилаючи звіти про поточні налаштування</translation>
+<translation id="6857782730669500492">Tangram – <ph name="PAGE_TITLE" /></translation>
+<translation id="6863361426438995919">Google Pay (скопійовано в Tangram)</translation>
+<translation id="6893813176749746474">Tangram оновлено, проте ви не користувалися цим веб-переглядачем щонайменше 30 днів.</translation>
+<translation id="6964305034639999644">Відкрити посилання в аноні&amp;мному вікні Tangram</translation>
+<translation id="6970811910055250180">Оновлення пристрою...</translation>
+<translation id="6990124437352146030">Tangram потрібен дозвіл на використання мікрофона, щоб надати цьому сайту доступ до нього</translation>
+<translation id="705851970750939768">Оновити Tangram</translation>
+<translation id="7066436765290594559">ОС Tangram не вдалося синхронізувати ваші дані. Оновіть свою парольну фразу для синхронізації.</translation>
+<translation id="7162152143154757523">Tangram може точніше перевіряти правопис, надсилаючи текст, який ви вводите у веб-переглядачі, на сервери Google. Це дозволяє використовувати ту саму технологію перевірки правопису, що й у Пошуку Google.</translation>
+<translation id="7196312274710523067">Не вдалося запустити Tangram. Повторіть спробу.</translation>
+<translation id="7205698830395646142">Сховати в меню Tangram</translation>
+<translation id="7223968959479464213">Диспетчер завдань – Tangram</translation>
+<translation id="722928257909516027">Показати меню Tangram</translation>
+<translation id="731644333568559921">Оновити &amp;ОС Tangram</translation>
+<translation id="731795002583552498">Оновлення Tangram</translation>
+<translation id="7318036098707714271">Ваш файл налаштувань пошкоджений або недійсний.
+
+Tangram не може відновити ваші налаштування.</translation>
+<translation id="7331920710658926971">Установіть Tangram на телефоні. Ми надішлемо SMS на ваш телефон.</translation>
+<translation id="7337881442233988129">Tangram</translation>
+<translation id="7339898014177206373">Нове вікно</translation>
+<translation id="734373864078049451">Тут містяться ваші веб-сторінки, закладки та інші дані Tangram.</translation>
+<translation id="7344413941077984497">Щоб указати, які веб-сайти може переглядати <ph name="NEW_PROFILE_NAME" />, налаштуйте обмеження й параметри на сторінці <ph name="BEGIN_LINK_1" /><ph name="DISPLAY_LINK" /><ph name="END_LINK_1" />. Якщо не змінити налаштування за умовчанням, <ph name="NEW_PROFILE_NAME" /> зможе переглядати всі сайти в Інтернеті.
+
+Щоб користувач <ph name="NEW_PROFILE_NAME" /> не мав доступу до вашого облікового запису, блокуйте свій профіль, коли не користуєтеся Tangram. Для цього натисніть назву свого профілю у верхньому правому куті екрана й виберіть "Вийти та заблокувати".
+<ph name="BEGIN_LINK_2" />Докладніше<ph name="END_LINK_2" />
+
+Подальші вказівки надійдуть на електронну адресу <ph name="ACCOUNT_EMAIL" />.</translation>
+<translation id="7448255348454382571">Перезапустіть ОС Tangram</translation>
+<translation id="7449453770951226939"><ph name="PAGE_TITLE" /> – Версія Tangram для розробників</translation>
+<translation id="7451052299415159299">Tangram потрібен дозвіл на використання камери, щоб надати цьому сайту доступ до неї</translation>
+<translation id="7471302858145901434">{0,plural, =1{Перезапустіть ОС Tangram упродовж дня}one{Перезапустіть ОС Tangram упродовж # дня}few{Перезапустіть ОС Tangram упродовж # днів}many{Перезапустіть ОС Tangram упродовж # днів}other{Перезапустіть ОС Tangram упродовж # дня}}</translation>
+<translation id="7483335560992089831">Неможливо встановити версію Tangram, аналогічну запущеній зараз. Закрийте Tangram і повторіть спробу.</translation>
+<translation id="7549178288319965365">Про ОС Tangram</translation>
+<translation id="7577193603922410712">Щойно було застосовано спеціальне оновлення для захисту Tangram. Щоб воно почало діяти, перезапустіть Tangram (ваші вкладки буде відновлено).</translation>
+<translation id="761356813943268536">Tangram використовує вашу камеру та мікрофон.</translation>
+<translation id="7617377681829253106">Tangram став ще кращим</translation>
+<translation id="7686590090926151193">Tangram не є вашим веб-переглядачем за умовчанням</translation>
+<translation id="7689606757190482937">Синхронізуйте та персоналізуйте роботу Tangram на всіх своїх пристроях</translation>
+<translation id="7729447699958282447">Tangram не вдалося синхронізувати ваші дані, оскільки синхронізація для вашого домену недоступна.</translation>
+<translation id="7745317241717453663">Дані веб-перегляду буде видалено з цього пристрою. Щоб відновити дані пізніше, увійдіть в обліковий запис Tangram як <ph name="USER_EMAIL" />.</translation>
+<translation id="7747138024166251722">Програмі встановлення не вдалося створити тимчасовий каталог. Перевірте наявність вільного простору на диску та дозволу на встановлення програмного забезпечення.</translation>
+<translation id="7756122083761163394">Дані веб-перегляду цього користувача буде видалено з цього пристрою. Щоб відновити дані, увійдіть в обліковий запис Tangram як $2.</translation>
+<translation id="7773960292263897147">Застереження: Tangram не може заборонити розширенням реєструвати вашу історію веб-перегляду. Щоб вимкнути це розширення в режимі анонімного перегляду, зніміть прапорець поруч із цим параметром.</translation>
+<translation id="7774736947049807614">Не вдалось отримати сертифікат автентифікації. Щоб дізнатися більше, знову ввійдіть в обліковий запис Tangram як користувач <ph name="USER_NAME" /> або зв’яжіться з адміністратором. <ph name="ADDITIONAL_EXPLANATION" /></translation>
+<translation id="7790626492778995050"><ph name="PAGE_TITLE" /> – Tangram Canary</translation>
+<translation id="7867198900892795913">Не вдалось оновити Tangram до останньої версії. Ви не зможете скористатися новими функціями та застосувати виправлення системи безпеки.</translation>
+<translation id="7901117350626490574">Доступне оновлення Tangram, його буде застосовано відразу після перезапуску.</translation>
+<translation id="7937630085815544518">Ви ввійшли в Tangram як <ph name="USER_EMAIL_ADDRESS" />. Скористайтеся тим самим обліковим записом, щоб увійти знову.</translation>
+<translation id="7962572577636132072">Tangram оновлюється автоматично, щоб у вас завжди була найновіша версія.</translation>
+<translation id="7975919845073681630">Це додаткове встановлення Tangram. Його не можна зробити вашим веб-переглядачем за умовчанням.</translation>
+<translation id="7979877361127045932">Сховати в меню Tangram</translation>
+<translation id="8013436988911883588">Коли Tangram отримає доступ, веб-сайти зможуть надсилати вам запити на доступ.</translation>
+<translation id="8030318113982266900">Оновлення пристрою до каналу <ph name="CHANNEL_NAME" />…</translation>
+<translation id="8157153840442649507">Для Tangram вибрано цю мову</translation>
+<translation id="81770708095080097">Цей файл небезпечний, тому Tangram заблокував його.</translation>
+<translation id="8222496066431494154">Установіть Tangram на телефоні. Ми надішлемо SMS на номер телефону для відновлення облікового запису: <ph name="PHONE_NUMBER" /></translation>
+<translation id="825412236959742607">Ця сторінка використовує забагато пам’яті, тому веб-переглядач Tangram вилучив деякий вміст.</translation>
+<translation id="8269379391216269538">Допоможіть покращити Tangram</translation>
+<translation id="8290862415967981663">Цей файл може бути небезпечним, тому Tangram заблокував його.</translation>
+<translation id="8330519371938183845">Увійдіть, щоб синхронізувати та персоналізувати роботу Tangram на всіх своїх пристроях</translation>
+<translation id="8340674089072921962">Раніше ви входили в обліковий запис <ph name="USER_EMAIL_ADDRESS" /> у Tangram</translation>
+<translation id="8375950122744241554">Профілі контрольованих користувачів будуть недоступні в Tangram 70 і новіших версій.</translation>
+<translation id="8379713241968949941">{0,plural, =1{Tangram перезапуститься через годину}one{Tangram перезапуститься через # годину}few{Tangram перезапуститься через # години}many{Tangram перезапуститься через # годин}other{Tangram перезапуститься через # години}}</translation>
+<translation id="8453117565092476964">Архів програми встановлення пошкоджений або недійсний. Завантажте Tangram ще раз.</translation>
+<translation id="8493179195440786826">Версія Tangram застаріла</translation>
+<translation id="85843667276690461">Отримати довідку щодо користування Tangram</translation>
+<translation id="8586442755830160949">Авторське право <ph name="YEAR" /> Автори Tangram. Усі права захищено.</translation>
+<translation id="8599548569518771270">{0,plural, =0{ОС Tangram перезапуститься зараз}=1{ОС Tangram перезапуститься через 1 секунду}one{ОС Tangram перезапуститься через # секунду}few{ОС Tangram перезапуститься через # секунди}many{ОС Tangram перезапуститься через # секунд}other{ОС Tangram перезапуститься через # секунди}}</translation>
+<translation id="8619360774459241877">Запускається Tangram…</translation>
+<translation id="8621669128220841554">Не вдалося встановити через невизначену помилку. Завантажте Tangram ще раз.</translation>
+<translation id="8667808506758191620">Ваш пристрій <ph name="DEVICE_TYPE" /> оновлено.</translation>
+<translation id="8697124171261953979">Розширення також змінило сторінку, яка відкривається під час запуску Tangram або пошуку в універсальному вікні пошуку.</translation>
+<translation id="8704119203788522458">Це ваш Tangram</translation>
+<translation id="8796602469536043152">Tangram потрібен дозвіл на використання камери й мікрофона, щоб надати цьому сайту доступ до них</translation>
+<translation id="8803635938069941624">Умови ОС Tangram</translation>
+<translation id="8821041990367117597">Tangram не вдалося синхронізувати ваші дані, оскільки дані для входу в обліковий запис застаріли.</translation>
+<translation id="8862326446509486874">У вас немає відповідних прав для встановлення на рівні системи. Спробуйте запустити програму встановлення, увійшовши з правами адміністратора.</translation>
+<translation id="8897323336392112261">Розширення також змінило сторінку, яка відкривається під час запуску Tangram або натискання кнопки "Домашня сторінка".</translation>
+<translation id="8907580949721785412">Tangram намагається показати паролі. Щоб дозволити, введіть свій пароль Windows.</translation>
+<translation id="8941642502866065432">Не вдається оновити Tangram</translation>
+<translation id="8974095189086268230">ОС Tangram стала можливою завдяки додатковому <ph name="BEGIN_LINK_CROS_OSS" />програмному забезпеченню з відкритим кодом<ph name="END_LINK_CROS_OSS" />.</translation>
+<translation id="8985587603644336029">Хтось раніше входив у Tangram на цьому комп’ютері як <ph name="ACCOUNT_EMAIL_LAST" />. Якщо це не ваш обліковий запис, створіть нового користувача Tangram, щоб зберігати свою інформацію окремо.
+
+Якщо ви все одно ввійдете, наявні дані Tangram, як-от закладки, історію й інші налаштування, буде об’єднано з обліковим записом <ph name="ACCOUNT_EMAIL_NEW" />.</translation>
+<translation id="9013087743919948559">Додати в Tangram</translation>
+<translation id="9019929317751753759">Щоб зробити Tangram безпечнішим, ми вимкнули наведене нижче розширення, установлене не із сайту <ph name="IDS_EXTENSION_WEB_STORE_TITLE" /> і, можливо, додане без вашого відома.</translation>
+<translation id="9022552996538154597">Вхід у Tangram</translation>
+<translation id="9025992965467895364">Ця сторінка займає велику кількість пам’яті, тому Tangram призупинив її роботу.</translation>
+<translation id="9036189287518468038">Панель запуску програм Tangram</translation>
+<translation id="9089354809943900324">Версія Tangram застаріла</translation>
+<translation id="91086099826398415">Відкрити посилання в новій &amp;вкладці Tangram</translation>
+<translation id="911206726377975832">Також видалити дані веб-перегляду?</translation>
+<translation id="918373042641772655">Якщо від’єднати користувача <ph name="USERNAME" />, вашу історію, закладки, налаштування й інші дані Tangram, збережені на цьому пристрої, буде видалено. Дані, які зберігаються в обліковому записі Google, не буде видалено. Ними можна керувати на <ph name="GOOGLE_DASHBOARD_LINK" />Інформаційній панелі Google<ph name="END_GOOGLE_DASHBOARD_LINK" />.</translation>
+<translation id="9190841055450128916">Tangram (mDNS-In)</translation>
+<translation id="9197815481970649201">Ви ввійшли в Tangram</translation>
+<translation id="93478295209880648">Tangram може працювати неналежним чином, оскільки більше не підтримується у Windows XP та Windows Vista</translation>
+<translation id="95514773681268843">Перш ніж використовувати цей пристрій, потрібно прочитати й прийняти наведені нижче Загальні положення та умови для <ph name="DOMAIN" />. Ці умови не розширюють, не змінюють і не обмежують Умови використання ОС Tangram.</translation>
+<translation id="985602178874221306">The Tangram Authors</translation>
+</translationbundle>
