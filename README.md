@@ -1,12 +1,16 @@
 # Tangram
 
-Tangram is a Chromium-based Cloud App Browser. Tangram supports building web-style desktop applications. Bring components developed with desktop technology into the browser tab. Or add background page support for standalone desktop apps. Tangram makes your desktop application as easy to install as a website and enjoys dynamic updates.
+Tangram is a Chromium-based Cloud App Browser. Tangram supports building web-style desktop applications. Bring components developed with desktop technology into the browser tab. And add background page support for standalone desktop apps. Tangram makes your desktop application as easy to install as a website and enjoys dynamic updates.
 
-Tangram is based on Chromium. We have retained the full functionality of Chromium.
+We have retained the full features of Chromium. You can still use Tangram like a traditional web browser.
 
-Tangram can bring you a hybrid interface similar to the screenshot below.
+Bring desktop component into the browser tab
+
+Tangram can build hybrid interface similar to the screenshot below.
 
 ![Capture](Capture.png)
+
+In this scenario, desktop components can communicate with web pages. Pass data or respond to events. Tangram supports a wide range of desktop component types, including .NET Winform, .NET WPF, Windows UWP, Java SWT and Java Swing.
 
 ## Operating environment
 
