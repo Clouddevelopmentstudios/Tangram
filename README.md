@@ -23,7 +23,7 @@ Based on Chromium 71.
 |-----------------|--------|
 | .NET Winform Control | Full support |
 | HTML Page | Support based on the Tangram browser |
-| .NET WPF | Untested |
+| .NET WPF | Support |
 | Windows UWP | Untested |
 | Win32 | Untested |
 | MFC CWnd | Untested |
