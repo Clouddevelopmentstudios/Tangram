@@ -2,7 +2,7 @@
 
 Tangram is a Chromium-based Cloud App Browser. Tangram supports building web-style desktop applications. Bring components developed with desktop technology into the browser tab. And add background page support for standalone desktop apps. Tangram makes your desktop application as easy to install as a website and enjoys dynamic updates.
 
-We have retained the full features of Chromium. You can still use Tangram like a traditional web browser.
+We have retained the full features of Chromium. You can still use Tangram like a traditional web browser. In particular, we have added a new set of DOM elements and Javascript objects to the browser. This allows you to integrate rich desktop resources into the web environment.
 
 ## Bring desktop component into the browser tab
 
