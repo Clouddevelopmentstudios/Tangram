@@ -4,7 +4,7 @@ Tangram is a Chromium-based Cloud App Browser. Tangram supports building web-sty
 
 We have retained the full features of Chromium. You can still use Tangram like a traditional web browser.
 
-Bring desktop component into the browser tab
+## Bring desktop component into the browser tab
 
 Tangram can build hybrid interface similar to the screenshot below.
 
