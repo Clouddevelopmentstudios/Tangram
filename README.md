@@ -12,6 +12,10 @@ Tangram can build hybrid interface similar to the screenshot below.
 
 In this scenario, desktop components can communicate with web pages. Pass data or respond to events. Tangram supports a wide range of desktop component types, including .NET Winform, .NET WPF, Windows UWP, Java SWT and Java Swing.
 
+## Add background page support for standalone desktop apps
+
+![Capture2](Capture2.png)
+
 ## Operating environment
 
 Runs on Windows 10 with .NET Framework 4.0+, 32/64-bit.  
