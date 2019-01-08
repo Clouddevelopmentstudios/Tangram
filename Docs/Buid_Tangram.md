@@ -56,6 +56,6 @@ then Open **{{Tangram Root Directory}}\Build\TangramCore.sln**, build **TangramC
 
 ### For Advanced Users
 If you want to understand the code of tangram in a deeper way, or want to contribute code, then you need to look at the following documents.
-- [Build Tangram with Symbols](https://github.com/TangramDev/Tangram/blob/master/Docs/Build_Tangram_Symbols.md) --Quickly debug tangram and chrome code without spending a lot of time compiling Chrome
-- [Build Tangram with Chromium](https://github.com/TangramDev/Tangram/blob/master/Docs/Build_Tangram_Full.md) --Advanced build instructions include tangram related libraries, chromium .
+- [Build Tangram with Symbols](https://github.com/TangramDev/Tangram/blob/master/Docs/Build_Tangram_with_Symbols.md) --Quickly debug tangram and chrome code without spending a lot of time compiling Chrome
+- [Build Tangram with Chromium](https://github.com/TangramDev/Tangram/blob/master/Docs/Build_Tangram_with_Chromium.md) --Advanced build instructions include tangram related libraries, chromium .
 
