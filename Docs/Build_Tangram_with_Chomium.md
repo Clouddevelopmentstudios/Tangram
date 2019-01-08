@@ -1,4 +1,4 @@
-# Build Tangram Full
+# Build Tangram with Chromium
 ## System requirements
 - A 64-bit Intel machine with at least 8GB of RAM. More than 16GB is highly recommended.
 - At least 100GB of free disk space on an NTFS-formatted hard drive. FAT32 will not work, as some of the Git packfiles are larger than 4GB.
@@ -28,14 +28,16 @@ $ git config --global branch.autosetuprebase always
 ```
 ## Get the code
 ### Chromium
-Tangram is based on Chromium, so need to get the chromium code according to https://chromium.googlesource.com/chromium/src/+/master/docs/windows_build_instructions.md#get-the-code
+Tangram is based on Chromium, so need to get the chromium code and build it according to https://chromium.googlesource.com/chromium/src/+/master/docs/windows_build_instructions.md#get-the-code
+
+
 
 ### Chromium patches
 1. Get the tangram code
 ```
 git clone https://github.com/TangramDev/Tangram.git
 ```
-2. Copy `chromium_patches/71.0.3578.80` into **{{Chromium Root Directory}}\src\**
+2. To ensure that the source code of chromium is compiled successfully, Copy `chromium_patches/71.0.3578.80` into **{{Chromium Root Directory}}\src\**
 
 ### TangramCore
 Core is the core component of the Tangram system. It provides basic interface rendering, event forwarding, message pipeline, process management and language runtime support.
@@ -57,6 +59,15 @@ Open **{{Tangram Root Directory}}\Build\TangramCore.sln**, build **TangramCore**
 
 ### Build LaunchPad
 Open **{{LaunchPad Root Directory}}\LaunchPad.csproj**, build .
+
+### Build Chromium
+First build the chromium source code according to the official document;   
+then copy chrome_patches into the chromium source code, and build chromium again.
+
+## Debug 
+Open **{{Tangram Root Directory}}\Build\ChromeBasic.sln**, debug it.
+
+
 
 
 
