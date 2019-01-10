@@ -4,7 +4,7 @@
 
 - NET API
   - Node对象
-    - （未实现）Frame：当前节点的Frame
+    - Frame：当前节点的Frame
     - HostNode：当前节点所在层的Host节点（浏览器环境下为当前网页）
     - （未实现）HostFrame：当前节点对应的Frame（仅在该节点Extend之后有值）
     - Extend(layerName, layerXML)：对当前节点进行再次扩展（仅在非容器节点上生效）
