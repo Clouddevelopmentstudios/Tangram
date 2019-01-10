@@ -8,7 +8,7 @@
     - HostNode：当前节点所在层的Host节点（浏览器环境下为当前网页）
     - （未实现）HostFrame：当前节点对应的Frame（仅在该节点Extend之后有值）
     - Extend(layerName, layerXML)：对当前节点进行再次扩展（仅在非容器节点上生效）
-    - （未实现）SendToAll(arg1, arg2)：发送到当前节点所在层的所有其它节点
+    - SendToAll(arg1, arg2)：发送到当前节点所在层的所有其它节点
     - （未实现）SendToNode(nodeName, arg1, arg2)：发送到当前节点所在层的指定名称节点
     - （未实现）SendToNode(rowNum, colNum, arg1, arg2): 发送到当前节点所在层的指定行列节点
     - SendToHostNode(arg1, arg2)：发送到当前节点所在层的Host节点
